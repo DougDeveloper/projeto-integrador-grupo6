@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 120px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    display: flex;
+    padding: 20px 0% 20px 0px;
+}
+
+header img{
+    padding: 20px 100% 20px 0%;
+    background-color: #ffffff;
+    
+}
+
+header nav a{
+    display: flex;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
